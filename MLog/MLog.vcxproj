@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\FootyProject\FootyProject\Main.cpp" />
-    <ClCompile Include="..\..\FootyProject\FootyProject\Match.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Match.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\FootyProject\FootyProject\Match.h" />
+    <ClInclude Include="Match.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
